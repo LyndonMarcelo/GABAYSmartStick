@@ -10,9 +10,9 @@
 
 WiFiMulti wifiMulti;
  
-const char* WIFI_SSID = "GlobeAtHome_127DA_2.4";
-const char* WIFI_PASS = "Lola2172";
-String ip = "192.168.254.100";
+const char* WIFI_SSID = "******";
+const char* WIFI_PASS = "******";
+String ip = "###.###.###.###";
 
 //const char* WIFI_SSID = "Hanapin si Lyndon";
 //const char* WIFI_PASS = "Kitty2172";
