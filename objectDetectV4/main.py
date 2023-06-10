@@ -8,8 +8,8 @@ import time
 net = cv2.dnn.readNetFromONNX("gabayVisionV5.onnx")
 classes = ['crosswalk', 'person', 'post', 'pothole', 'stairs']
 
-phpip = "192.168.254.100"
-camip = "192.168.254.117"
+phpip = "###.###.###.###"
+camip = "###.###.###.###"
 
 URL = 'http://'+camip+'/cam-hi.jpg'
 
